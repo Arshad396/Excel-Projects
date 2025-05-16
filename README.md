@@ -21,7 +21,7 @@ This repository showcases two essential Excel-based data projects: a dynamic **d
   - PivotTables and summary tables
 - Designed to be clean, exportable, and adaptable for multiple datasets
 
-![image]https://github.com/Arshad396/Excel-Projects/blob/20f2c514d64e63090dd480a03220a44f257050c1/Project_1/Screenshot%202025-05-15%20230615.png
+![image alt](https://github.com/Arshad396/Excel-Projects/blob/20f2c514d64e63090dd480a03220a44f257050c1/Project_1/Screenshot%202025-05-15%20230615.png)
 
 ### 📈 Excel Dashboard 2
 - Visual dashboard with interactive charts and slicers
