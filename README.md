@@ -31,7 +31,7 @@ This repository showcases two essential Excel-based data projects: a dynamic **d
   - Dynamic visuals (bar/line/pie charts)
   - KPI indicators (e.g., revenue, growth, sales performance)
   - Filter controls using slicers or dropdowns
-
+![image alt](https://github.com/Arshad396/Excel-Projects/blob/87cb5aa3ae77c4e150b572cf460461f2b10c0792/Project_2/Screenshot%202025-05-16%20110932.png)
 ---
 
 ## 🛠 Features Used
