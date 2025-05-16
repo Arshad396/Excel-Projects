@@ -11,14 +11,7 @@ This repository showcases two essential Excel-based data projects: a dynamic **d
 
 ## 🔍 Project Overviews
 
-### 📈 Excel Dashboard 2
-- Visual dashboard with interactive charts and slicers
-- Tracks key metrics with a clean and responsive layout
-- Ideal for quick decision-making and management reporting
-- Features:
-  - Dynamic visuals (bar/line/pie charts)
-  - KPI indicators (e.g., revenue, growth, sales performance)
-  - Filter controls using slicers or dropdowns
+
 
 ### 📋 Excel Report 1 Data
 - A structured reporting template based on real data
@@ -27,6 +20,17 @@ This repository showcases two essential Excel-based data projects: a dynamic **d
   - Product/category trends
   - PivotTables and summary tables
 - Designed to be clean, exportable, and adaptable for multiple datasets
+
+![image]https://github.com/Arshad396/Excel-Projects/blob/20f2c514d64e63090dd480a03220a44f257050c1/Project_1/Screenshot%202025-05-15%20230615.png
+
+### 📈 Excel Dashboard 2
+- Visual dashboard with interactive charts and slicers
+- Tracks key metrics with a clean and responsive layout
+- Ideal for quick decision-making and management reporting
+- Features:
+  - Dynamic visuals (bar/line/pie charts)
+  - KPI indicators (e.g., revenue, growth, sales performance)
+  - Filter controls using slicers or dropdowns
 
 ---
 
